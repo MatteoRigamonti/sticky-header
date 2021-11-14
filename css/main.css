@@ -1,0 +1,7 @@
+.navbar {
+	transition: background-color 0.2s;
+}
+
+.navbar.fixed-top {
+	background-color: rgba(52, 58, 64, 0.95) !important;
+}
